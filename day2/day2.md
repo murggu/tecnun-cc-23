@@ -31,14 +31,7 @@
 
 Here is a simple flow chart:
 
-```mermaid
-graph TD;
-	E(-Score Model-)-->F;
-	C(Decision Forest Regression)-->B(Train Model);
-	A(-Split Data-)-- Result DS 1 --> B;
-	A-- Result DS 2 --> D(Score Model);
-	D-->F(-Evaluate Model-);
-```
+![diagram](diagram-designer.png)
 
 * AutoML - **Exercise 3** - *show finalization and share screenshot*
 [Exercise 3 - AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2) 
