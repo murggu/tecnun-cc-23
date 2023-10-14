@@ -33,10 +33,11 @@ Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    E(-Score Model-)-->F;
+    C(Decision Forest Regression)-->B(Train Model)
+    A(-Split Data-)-- Result DS 1 --> B
+    A-- Result DS 2 --> D(Score Model)
+    D-->F(-Evaluate Model-);
 ```
 
 * AutoML - **Exercise 3** - *show finalization and share screenshot*
