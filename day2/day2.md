@@ -21,7 +21,9 @@
 
 ## Part 2: Azure AI - Azure Machine Learning Service
 
-* Designer - **Exercise 2** - *show finalization and share screenshot*
+**Exercise 2**:
+
+* Designer - *show finalization and share screenshot*
  - [ ] Go to Designer in AML Studio 
  - [ ] From the examples, select the "Regression - Automobile Proce Prediction (Basic)". The canvas will open with different nodes already there. 
  - [ ] Submit the experiment and see what is happening at the output of each step
@@ -33,10 +35,16 @@ Here is a simple flow chart:
 
 ![diagram](media/diagram-designer.png)
 
-* AutoML - **Exercise 3** - *show finalization and share screenshot*
+
+**Exercise 3**:
+
+* AutoML - *show finalization and share screenshot*
 [Exercise 3 - AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2) 
 
-* Notebooks - **Exercise 4** - *show finalization and share screenshot*
+
+**Exercise 4**:
+
+* Notebooks - *show finalization and share screenshot*
 [Exercise 4 - Notebooks](https://github.com/murggu/tecnun-cc-23/day2/Exercise4-notebooks) - download the folder and upload it to Azure ML Notebooks
 
 
