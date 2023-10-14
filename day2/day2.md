@@ -1,6 +1,7 @@
 # Day 2 - Cloud Computing (Azure) - Data Science
 
 > Class by Ane Iturzaeta (aniturza@microsoft.com)
+
 > 20/10/2023 Tecnun
 
 ## Part 1: Azure AI - Azure Cognitive Services
@@ -29,19 +30,21 @@
 *Important: the circles are the current blocks from the example and the squared nodes are the ones you must insert into the template*
 
 ```mermaid
+
 graph TD;
-    E(-Score Model-)-->F;
-    C(Decision Forest Regression)-->B(Train Model)
-    A(-Split Data-)-- Result DS 1 --> B
-    A-- Result DS 2 --> D(Score Model)
-    D-->F(-Evaluate Model-);
+E(-Score Model-)-->F;
+C(Decision Forest Regression)-->B(Train Model)
+A(-Split Data-)-- Result DS 1 --> B
+A-- Result DS 2 --> D(Score Model)
+D-->F(-Evaluate Model-);
+
 ```
 
 * AutoML - **Exercise 3** - *show finalization and share screenshot*
 [Exercise 3 - AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2) 
 
 * Notebooks - **Exercise 4** - *show finalization and share screenshot*
-[Exercise 4 - Notebooks](https://github.dev/murggu/tecnun-cc-23/day2/Exercise4-notebooks) - download the folder and upload it to Azure ML Notebooks
+[Exercise 4 - Notebooks](https://github.com/murggu/tecnun-cc-23/day2/Exercise4-notebooks) - download the folder and upload it to Azure ML Notebooks
 
 
 ## Part 3: Azure AI - Generative AI
