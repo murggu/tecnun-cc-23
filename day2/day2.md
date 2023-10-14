@@ -11,13 +11,23 @@
 * Language Services - Studio [Language Studio](https://language.cognitive.azure.com/)
 * Document Intelligence - Studio [Form Recognizer Studio](https://formrecognizer.appliedai.azure.com/studio)
 * Call from Postman
-* Develop a Logic App in Azure 
+* Develop a Logic App in Azure (opt)
 
 
 **Exercise 1**: 
+
 1. create cognitive services resource in Azure
 2. use the preferred studio and try some APIs - *show an example and share screenshot*
-3. learn how to use cognitive services from a Logic App - *show finalization and share screenshot*
+
+> links to Studios above. Make sure you have created the source previously in Azure
+
+3. learn how to use cognitive services from Postman - *show finalization and share screenshot*
+
+	* Link to postman: [Sign up](https://www.postman.com/)
+	* Link to reference API: 
+		* [Vision - image analysis](https://learn.microsoft.com/en-us/rest/api/computervision/2023-02-01-preview/image-analysis/analyze?tabs=HTTP)
+		* [NLP - text analysis](https://learn.microsoft.com/en-us/rest/api/language/2023-04-15-preview/text-analysis-runtime/analyze-text?tabs=HTTP)
+		* [Form Recognizer - layout or invoice](https://westeurope.dev.cognitive.microsoft.com/docs/services/form-recognizer-api-2023-02-28-preview/operations/AnalyzeDocument/console)
 
 ## Part 2: Azure AI - Azure Machine Learning Service
 
