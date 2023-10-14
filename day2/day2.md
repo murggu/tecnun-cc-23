@@ -31,7 +31,7 @@
 
 Here is a simple flow chart:
 
-![diagram](diagram-designer.png)
+![diagram](media/diagram-designer.png)
 
 * AutoML - **Exercise 3** - *show finalization and share screenshot*
 [Exercise 3 - AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2) 
