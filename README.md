@@ -14,7 +14,7 @@ Samples and resources can be found [here](/day1).
 
 > Ane Iturzaeta
 
-## Day 3: Azure Data Services
+## Day 3: Azure Data Engineering
 
 > Aitor Murguzur
 
