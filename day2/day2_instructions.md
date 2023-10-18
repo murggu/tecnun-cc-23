@@ -63,7 +63,7 @@ Only theoretical part, will be asked in the evaluation part
 
 ## Part 4: Use cases examples
 
-Only theoretical part, will be asked in the evaluation part
+Only theoretical part, discussion in the class
 
 ## Part 5: Evaluation test
 
