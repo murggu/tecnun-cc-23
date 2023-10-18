@@ -67,16 +67,13 @@ Only theoretical part, will be asked in the evaluation part
 
 ## Part 5: Evaluation test
 
-* Complete the test in ADI
+* Complete the test in ADI (12 questions)
 
 * Upload screenshots to ADI Task:
 
 From exercise 1: 
 
- - [ ] Vision Studio example 
- - [ ] Speech Studio example
- - [ ] Language Studio example
- - [ ] Document Intelligence example
+ - [ ] Selected Studio (Vision, Speech, Language or Form Recognizer) example
  - [ ] Postman Request and Response to any of the proposed APIs
 
  From exercise 2:
