@@ -71,19 +71,19 @@ Only theoretical part, will be asked in the evaluation part
 
 * Upload screenshots to ADI Task:
 
-From exercise 1: 
+	From exercise 1: 
 
- - [ ] Selected Studio (Vision, Speech, Language or Form Recognizer) example
- - [ ] Postman Request and Response to any of the proposed APIs
+	- [ ] Selected Studio (Vision, Speech, Language or Form Recognizer) example
+	- [ ] Postman Request and Response to any of the proposed APIs
 
- From exercise 2:
+	From exercise 2:
 
- - [ ] Designer canvas final result
+	- [ ] Designer canvas final result
 
-From exercise 3:
+	From exercise 3:
 
- - [ ] AutoML results
+	- [ ] AutoML results
 
-From exercise 4:
+	From exercise 4:
 
- - [ ] Execution of Notebook
+	- [ ] Execution of Notebook
