@@ -2,9 +2,9 @@
 
 **[Part 1]**
 - Create a resource group with tags
-- Create a vnet [S]
-- Create a storage account (ADLS Gen2) [S]
-- Add tags to the storage account and container
+- Create a vnet
+- Create a storage account (ADLS Gen2)
+- Add tags to the storage account and container  [S]
 - Add lock to the resource group 
 - Remove resource group
 
