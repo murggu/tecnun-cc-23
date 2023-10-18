@@ -15,7 +15,7 @@
 **Exercise 1**: 
 
 1. create cognitive services resource in Azure
-2. use the the 4 studios and try at least 1 API in each of them - *show an example and share screenshot*
+2. use the the 4 studios and try at least 1 API in each of them - *show an example of each and share screenshot*
 
 > links to Studios above. Make sure you have created the Cognitive Service resource previously in Azure
 
@@ -67,3 +67,26 @@ Only theoretical part, will be asked in the evaluation part
 
 ## Part 5: Evaluation test
 
+* Complete the test in ADI
+
+* Upload screenshots to ADI Task:
+
+From exercise 1: 
+
+ - [ ] Vision Studio example 
+ - [ ] Speech Studio example
+ - [ ] Language Studio example
+ - [ ] Document Intelligence example
+ - [ ] Postman Request and Response to any of the proposed APIs
+
+ From exercise 2:
+
+ - [ ] Designer canvas final result
+
+From exercise 3:
+
+ - [ ] AutoML results
+
+From exercise 4:
+
+ - [ ] Execution of Notebook
