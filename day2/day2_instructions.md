@@ -14,14 +14,17 @@
 
 **Exercise 0**: Preparation
 
-1. Create a **Cognitive Service** resource in Azure: create a cognitive service resource + new resource group
+1.  Go to Azure Portal and login with your account: [Azure Portal](https://portal.azure.com/)
+
+2. Create a **Cognitive Service** resource in Azure: create a cognitive service resource + new resource group
 	- Region: North Europe
 	- Name: cogser-<6_letters_alias_alumno>-d2
 	- Tag: owner = "alias estudiante"
 
 2. Create an **Azure Machine Learning** resource in Azure: within the same resource group you just created
-	- Region: North Europe
+	-  Region: North Europe
 	- Name: aml-<6_letters_alias_alumno>-d2
+	- Create also a Container Registry with name: "containeryournamed2" - remember you cannot add spaces or other characters
 	- Tag: owner = "alias estudiante"
 
 
@@ -45,17 +48,29 @@
 
 **Exercise 2**:
 
-* Designer - [S]
+* Go to the AML Studio to start working: [ml.azure.com](https://ml.azure.com/) - select the workspace you have just created in Exercise 0
+
+* Go to Compute section and create a **Compute Instance** - create a new one
+	- Name: "your alias"
+	- Type: CPU --> See all --> "Standard_D2_v3"
+	- Shutdown at 60 minutes (default)
+	- CREATE and wait
+
+* Train a model in *Designer* - [S]
  - [ ] Go to Designer in AML Studio 
  - [ ] From the examples, select the "Regression - Automobile Proce Prediction (Basic)". The canvas will open with different nodes already there. 
  - [ ] Submit the experiment and see what is happening at the output of each step
- - [ ] Now we will train a new model and compare results in the "Evaluate Results" node. Follow this diagram to understand which blocks you must add to the current flow. Do not delete anything, just add the new blocks.  
 
-*Important: the circles are the current blocks from the example and the squared nodes are the ones you must insert into the template*
 
-Here is a simple flow chart:
+	Optional: compare two models
 
-![diagram](media/diagram-designer.png)
+		- [ ] Now we will train a new model and compare results in the "Evaluate Results" node. Follow this diagram to understand which blocks you must add to the current flow. Do not delete anything, just add the new blocks.  
+
+		*Important: the circles are the current blocks from the example and the squared nodes are the ones you must insert into the template*
+
+		Here is a simple flow chart:
+
+		![diagram](media/diagram-designer.png)
 
 
 **Exercise 3**:
@@ -67,8 +82,11 @@ Here is a simple flow chart:
 **Exercise 4**:
 
 * Notebooks - [S]
-[Exercise 4 - Notebooks](https://github.com/murggu/tecnun-cc-23/day2/Exercise4-notebooks) - download the folder and upload it to Azure ML Notebooks
+[Exercise 4 - Notebooks](https://github.com/murggu/tecnun-cc-23/day2/Exercise4-notebooks) 
 
+- download the folder and upload it to Azure ML Notebooks
+- execute the cells one by one
+- share hte screenshot of some cells executed
 
 ## Part 3: Azure AI - Generative AI
 
