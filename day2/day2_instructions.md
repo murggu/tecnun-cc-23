@@ -28,11 +28,11 @@
 **Exercise 1**: 
 
 1. create cognitive services resource in Azure
-2. use the the 4 studios and try at least 1 API in each of them - *show an example of each and share screenshot*
+2. use the the 4 studios and try at least 1 API in each of them - [S]
 
 	> links to Studios above. Make sure you have created the Cognitive Service resource previously in Azure
 
-3. learn how to use cognitive services from Postman - *show finalization and share screenshot*
+3. learn how to use cognitive services from Postman - [S]
 
 	* Link to postman: [Sign up or in](https://www.postman.com/)
 	* Link to reference API: 
@@ -45,7 +45,7 @@
 
 **Exercise 2**:
 
-* Designer - *show finalization and share screenshot*
+* Designer - [S]
  - [ ] Go to Designer in AML Studio 
  - [ ] From the examples, select the "Regression - Automobile Proce Prediction (Basic)". The canvas will open with different nodes already there. 
  - [ ] Submit the experiment and see what is happening at the output of each step
@@ -60,13 +60,13 @@ Here is a simple flow chart:
 
 **Exercise 3**:
 
-* AutoML - *show finalization and share screenshot*
+* AutoML - [S]
 [Exercise 3 - AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2) 
 
 
 **Exercise 4**:
 
-* Notebooks - *show finalization and share screenshot*
+* Notebooks - [S]
 [Exercise 4 - Notebooks](https://github.com/murggu/tecnun-cc-23/day2/Exercise4-notebooks) - download the folder and upload it to Azure ML Notebooks
 
 
@@ -82,7 +82,7 @@ Only theoretical part, discussion in the class
 
 * Complete the test in ADI (12 questions)
 
-* Upload screenshots to ADI Task:
+* Upload screenshots to ADI Task: marked by [S]
 
 	From exercise 1: 
 
