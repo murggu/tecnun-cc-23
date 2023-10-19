@@ -12,12 +12,25 @@
 * Document Intelligence - Studio [Form Recognizer Studio](https://formrecognizer.appliedai.azure.com/studio)
 * Call APIs from Postman
 
+**Exercise 0**: Preparation
+
+1. Create a **Cognitive Service** resource in Azure: create a cognitive service resource + new resource group
+	- Region: North Europe
+	- Name: cogser-<6_letters_alias_alumno>-d2
+	- Tag: owner = "alias estudiante"
+
+2. Create an **Azure Machine Learning** resource in Azure: within the same resource group you just created
+	- Region: North Europe
+	- Name: aml-<6_letters_alias_alumno>-d2
+	- Tag: owner = "alias estudiante"
+
+
 **Exercise 1**: 
 
 1. create cognitive services resource in Azure
 2. use the the 4 studios and try at least 1 API in each of them - *show an example of each and share screenshot*
 
-> links to Studios above. Make sure you have created the Cognitive Service resource previously in Azure
+	> links to Studios above. Make sure you have created the Cognitive Service resource previously in Azure
 
 3. learn how to use cognitive services from Postman - *show finalization and share screenshot*
 
