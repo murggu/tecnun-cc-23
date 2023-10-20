@@ -35,7 +35,9 @@
 
 	> links to Studios above. Make sure you have created the Cognitive Service resource previously in Azure
 
-3. learn how to use cognitive services from Postman - [S]
+Optional:
+
+3. learn how to use cognitive services from Postman 
 
 	* Link to postman: [Sign up or in](https://www.postman.com/)
 	* Link to reference API: 
@@ -105,7 +107,6 @@ Only theoretical part, discussion in the class
 	From exercise 1: 
 
 	- [ ] Selected Studio (Vision, Speech, Language or Form Recognizer) example
-	- [ ] Postman Request and Response to any of the proposed APIs
 
 	From exercise 2:
 
