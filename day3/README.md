@@ -3,8 +3,7 @@
 **[Part 1 - Build the lakehouse/ingest data]**
 - Review the deployment template and underlying resources
 - Create three containers in the storage account (ADLS Gen2): bronze, silver and gold
-- Ingest data (using pipelines)
-- Ingest data (using notebooks) [S]
+- Ingest data (using pipelines) [S]
 - Add lock to the resource group 
 
 **[Part 2 - Prepare/transform data]**
