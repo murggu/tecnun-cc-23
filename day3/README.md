@@ -14,9 +14,6 @@
 - Connect to ADLS Gen2 (gold & silver layer)
 - Create the Power BI report [S]
 
-**[Part 4 - Clean up resources]**
-- Destroy resource group
-
 Notes:
 
 - [S] indicates that you will need to submit a screenshot to ADI when completed.
