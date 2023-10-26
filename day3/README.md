@@ -5,6 +5,7 @@
 - Create three containers in the storage account (ADLS Gen2): bronze, silver and gold
 - Ingest data (using pipelines) [S]
     - Source: https://azuresynapsestorage.blob.core.windows.net/sampledata
+    - Path: WideWorldImportersDW/parquet
 - Add lock to the resource group 
 
 
