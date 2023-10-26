@@ -2,7 +2,7 @@
 
 **[Part 1 - Build the lakehouse/ingest data]**
 - Review the deployment template and underlying resources
-- Create three containers in the storage account (ADLS Gen2): bronze, silver and gold
+- Create three folders in the storage account (ADLS Gen2): bronze, silver and gold
 - Ingest data (using pipelines) [S]
     - Source: https://azuresynapsestorage.blob.core.windows.net/sampledata
     - Path: WideWorldImportersDW/parquet
