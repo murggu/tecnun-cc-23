@@ -24,6 +24,7 @@ Why would I create and publish my reports in PowerBI, if I could also create sim
 ![Part2](media/part2.png)
 
 **Question 3**
+
 Based on the New York Taxy dataset, could you think about an scenario where the data given can be used to create your own model using Azure Machine Learning? Explain briefly the process you would follow.
 
 **Question 4**
