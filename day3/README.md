@@ -4,7 +4,9 @@
 - Review the deployment template and underlying resources
 - Create three containers in the storage account (ADLS Gen2): bronze, silver and gold
 - Ingest data (using pipelines) [S]
+    - Source: https://azuresynapsestorage.blob.core.windows.net/sampledata
 - Add lock to the resource group 
+
 
 **[Part 2 - Prepare/transform data]**
 - Transform data - create the silver layer

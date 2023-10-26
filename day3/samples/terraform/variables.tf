@@ -1,7 +1,7 @@
 variable "prefix" {
   type        = string
   description = "Prefix for module names"
-  default     = "alumni7"
+  default     = "alumni8"
 }
 
 variable "postfix" {
@@ -13,5 +13,5 @@ variable "postfix" {
 variable "location" {
   type        = string
   description = "Location for modules"
-  default     = "UK West" # UK West, Switzerland South, Switzerland West
+  default     = "Switzerland North"
 }
