@@ -26,6 +26,8 @@ Lets create the neccesary resources for the Part 1 architecture. Follow the step
 
  You will need to define the **Ingest** part of the solution using Synapse Pipelines.
 
+ DATA: https://learn.microsoft.com/en-us/azure/open-datasets/dataset-taxi-yellow?tabs=azureml-opendatasets
+
  Start by adding the **NYC Taxi Yellow** dataset to your workspace, you can add it from the **Home Page > Knowledge Center > Browse Gallery**
 
  ![NYC yellow](media/yellow_taxy_data.png)
