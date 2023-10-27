@@ -109,6 +109,16 @@ You will need to design the Logic App that takes the uploaded pictures, analyzes
 - Trigger should be evaluated every 10 seconds and only take 1 file
 - Logic App structure 
     ![Logic App](media/logic-app.png)
+  
+
+{
+  "Image": "@{triggerBody()?['Name']}",
+  "LicensePlate": "@{body('Optical_Character_Recognition_(OCR)_to_Text')?['text']}",
+  "PartitionKey": "@{triggerBody()?['Id']}",
+  "RowKey": "@{triggerBody()?['Id']}"
+
+}
+
 
 **Expected Result**
 Upload the picture **Pictures/taxi1.jpeg** to the storage blob container, and the Logic app should execute succesfully, identifying the license plate and storing it as an entity in Azure Table. **Take an screenshot of the entity on Azure table (you can use the "Storage Browser" in the storage account UI)**.
